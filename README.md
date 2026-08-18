@@ -1,6 +1,6 @@
 # Hi, I'm Avanti Patil 👋
 
-Software Engineer building technical platforms and products that help people — currently focused on search infrastructure at Wayfair.
+Software Engineer building technical platforms and products that help people — currently focused on search problems in the age of AI.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/avantipatil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
