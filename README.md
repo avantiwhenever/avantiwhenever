@@ -1,31 +1,53 @@
-- 👋 Hi, I’m Avanti Patil
-- 👀 I’m passionate about building technical platforms and products which help humans
-- 🌱 I’m currently learning Semantic search and Data science tools 
-- 💞️ I’m looking to collaborate on Startups and New job opportunities 
-- 📫 How to reach me 
+# Hi, I'm Avanti Patil 👋
 
-# ABOUT ME
-- I am a Software Engineer by profession with a focus on creating and thriving in diverse workforces.
-- Experience: 7+ years
-- Worked in Domains: E-commerce, Computer software, Finance, Human Resources, Restaurant, Search Engine
-- Masters in Computer Science @ Northeastern University, Boston (Class of 2016) 3.79/4 GPA
-- Major: Software Engineering
-- I am working on the search platform for Wayfair. I am also a Team Lead where my job is to plan, design and develop projects to make the system scalable and reliable while working with 3 people on the team as well as cross team collaboration.
-- I actively develop in java and collaborate with different teams like SRE and search stakeholders to make sure projects are helping to make a positive customer impact.
-- I have designed and developed REST API to cater to the search user base and act as a `Search as a Platform` service which can allow us to move towards elastic search and different flavors of Solr without affecting the end use behaviour aka framework agnostic search engine.
-- Previously I have designed and developed new pipeline to run spark jobs for Toast’s first data analytics platform resulting in 90% improvement in time for reports processing. I have also developed REST apis as part of my job and worked on scaling them.
-- I have an ability to solve complex problems in the production environment and thrive on challenges which lead me to receive many recommendations from my peers and project managers.
-- I have built scalable systems to handle the load of millions of trades for the derivatives market of NSE
-As an agile practitioner I have led many real life web based projects to success while at Northeastern University i.e MBTA group orders automation and Social networking for project feed 1010.
-- At VMWARE I worked on enterprise class disaster recovery projects and won poster sessions for the Availability Zones project.
-- Throughout my career I have worked with self-organizing teams varying in sizes from 2 to 20 people.
-- I have always maintained code quality of projects using continuous integration tools and code reviews.
-- I have also contributed to a paper on Programming Models for Distributed Computing: Futures and promises.
-Founder @ NU Grad Women Coders
-I am a founder and president of NU Grad Women Coder organization. NUGWC provides women in tech @Northeastern University with resources to learn and lead in their current position.
+Software Engineer building technical platforms and products that help people — currently focused on search infrastructure at Wayfair.
 
-Founder and Director@ HackNEU Hackathon
-A student led Hackathon, for Graduate and PhD students hosted by Northeastern University
-Volunteer @ Boston AR/MR meetup group
-I am an Augment reality enthusiast and helped with organizing Boston AR/MR meetup group's monthly events.
+<p align="left">
+  <a href="https://www.linkedin.com/in/avantipatil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:patilavanti16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>    </a>
+</p>
 
+- 🌱 Currently building projects for myself 
+- 💞️ Open to collaborating on startups and new opportunities
+- ⚡ Fun fact: I've led hackathons, founded a women-in-tech org, and helped scale systems handling millions of trades & search services
+
+---
+
+## About Me
+
+I'm senior software engineer with enterprinorial mindset who focuses on customer and developer happiness 
+
+**Experience across E-commerce, Finance, HR, Restaurant Tech, and Search domains:**
+
+- **Possible Finance** - Designed and developed loan products in multiple new cities increseing the customer growth and building tooling for improving customer engagement and outreach
+- **Wayfair** — Designed and built a REST API powering Search as a Platform, decoupling the search experience from the underlying engine (Elasticsearch/Solr)
+- **Toast** — Built the pipeline for the company's first Spark-based data analytics platform, cutting report processing time by 90%; also developed and scaled REST APIs
+- **NSE (National Stock Exchange)** — Built scalable systems handling millions of derivatives trades
+- **VMware** — Worked on enterprise-class disaster recovery; won a poster session award for the Availability Zones project
+- **Northeastern University** — Led agile teams delivering real-world web projects, including an MBTA group-orders automation tool and a social networking feed (1010)
+
+I've worked in self-organizing teams ranging from 2 to 20 people, maintained code quality through CI and code review practices, and contributed to a paper on *Programming Models for Distributed Computing: Futures and Promises*.
+
+**Education:** M.S. in Computer Science (Software Engineering), Northeastern University, Boston — 2016, GPA 3.79/4.0
+
+---
+
+## Community & Leadership
+
+- **Founder & President, NU Grad Women Coders** — supporting women in tech at Northeastern with resources to learn and lead
+- **Founder & Director, HackNEU** — a student-led hackathon for graduate and PhD students at Northeastern
+- **Volunteer, Boston AR/MR Meetup** — AR enthusiast helping organize monthly community events
+
+---
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Apache Solr](https://img.shields.io/badge/Solr-D9411E?style=flat&logo=apachesolr&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
