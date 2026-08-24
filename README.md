@@ -15,11 +15,11 @@ Software Engineer building technical platforms and products that help people —
 
 ## About Me
 
-I'm senior software engineer with enterprinorial mindset who focuses on customer and developer happiness 
+I'm senior software engineer with entrepreneurial mindset who focuses on customer and developer happiness 
 
 **Experience across E-commerce, Finance, HR, Restaurant Tech, and Search domains:**
 
-- **Possible Finance** - Designed and developed loan products in multiple new cities increseing the customer growth and building tooling for improving customer engagement and outreach
+- **Possible Finance** - Designed and developed loan products in multiple new cities increasing the customer growth and building tooling for improving customer engagement and outreach
 - **Wayfair** — Designed and built a REST API powering Search as a Platform, decoupling the search experience from the underlying engine (Elasticsearch/Solr)
 - **Toast** — Built the pipeline for the company's first Spark-based data analytics platform, cutting report processing time by 90%; also developed and scaled REST APIs
 - **NSE (National Stock Exchange)** — Built scalable systems handling millions of derivatives trades
